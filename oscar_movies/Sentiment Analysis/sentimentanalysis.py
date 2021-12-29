@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 """1. Importing DataSets"""
 
-data_2020 = pd.read_csv("2020_Nomadland.csv")
+data_2020 = pd.read_csv("../datasets/csv/2020_Nomadland.csv")
 data_2020.columns = [c.replace(' ', '_') for c in data_2020.columns]
 data_2020.head()
 

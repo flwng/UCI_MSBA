@@ -1,3 +1,2 @@
-.csv filter=lfs diff=lfs merge=lfs -text
-*/datasets/*.csv filter=lfs diff=lfs merge=lfs -text
-*/datasets/*/*.csv filter=lfs diff=lfs merge=lfs -text
+heart_stroke/datasets/*.csv filter=lfs diff=lfs merge=lfs -text
+oscar_movies/datasets/*/*.csv filter=lfs diff=lfs merge=lfs -text
