@@ -13,10 +13,10 @@ With this project, we are trying to find if there are any difference between the
 <a name="libraries-and-packages"></a>
 ## Libraries and packages
 In order to run the code for this project, you will need to run the following command to install the necessary packages:
-'''
+```
 python -m pip install -U pip
 python -m pip install -U pandas beautifoulsoup4 requests matplotlib numpy nltk scikit-learn joblib spacy textblob seaborn wordcloud
-'''
+```
 
 <a name="method"></a>
 ## Method
@@ -31,8 +31,8 @@ For this project, we have used the code in this way:
 ## Sources
 * Stefano L. (2020, January). IMDb movies extensive dataset, Version 2, Retrieved December 4, 2021 from https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+movies. csv
 * IMDB movies websites:
-https://www.imdb.com/title/tt0099348/reviews/?ref_=tt_ql_urv 
-https://www.imdb.com/title/tt0102926/reviews/?ref_=tt_ql_urv 
+https://www.imdb.com/title/tt0099348/reviews/?ref_=tt_ql_urv<br />
+https://www.imdb.com/title/tt0102926/reviews/?ref_=tt_ql_urv<br />
 https://www.imdb.com/title/tt0105695/reviews/?ref_=tt_ql_urv 
 https://www.imdb.com/title/tt0108052/reviews/?ref_=tt_ql_urv 
 https://www.imdb.com/title/tt0109830/reviews/?ref_=tt_ql_urv 
