@@ -6,9 +6,11 @@
 * [Method] (#method)
 * [Sources] (#sources)
 
+<a name="project-description"></a>
 ## Project Descritpion
 With this project, we are trying to find if there are any difference between the Oscar jury and the public opinion about the best movie of the year. We will compare the Best Picture award winning movies and the best rated movies on IMDB to see if there is any discrepancy and run a sentiment analysis and use data visualization to gain insights about the reasons for this difference.
 
+<a name="libraries-and-packages"></a>
 ## Libraries and packages
 In order to run the code for this project, you will need to run the following command to install the necessary packages:
 '''
@@ -16,6 +18,7 @@ python -m pip install -U pip
 python -m pip install -U pandas beautifoulsoup4 requests matplotlib numpy nltk scikit-learn joblib spacy textblob seaborn wordcloud
 '''
 
+<a name="method"></a>
 ## Method
 For this project, we have used the code in this way:
 1. run imdb_scraper.py for every Best Picture award winning movies to get the ratings and the reviews from the users;
@@ -24,6 +27,7 @@ For this project, we have used the code in this way:
 4. run a sentiment analysis on the reviews;
 5. visualize the findings and write report.
 
+<a name="sources"></a>
 ## Sources
 * Stefano L. (2020, January). IMDb movies extensive dataset, Version 2, Retrieved December 4, 2021 from https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+movies. csv
 * IMDB movies websites:
