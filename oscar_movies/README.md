@@ -13,6 +13,13 @@ With this project, we are trying to find if there are any difference between the
 <a name="libraries-and-packages"></a>
 ## Libraries and packages
 In order to run the code for this project, you will need to run the following command to install the necessary packages:
+
+For Python3:
+```
+python3 -m pip install -U pip
+python3 -m pip install -U pandas beautifoulsoup4 requests matplotlib numpy nltk scikit-learn joblib spacy textblob seaborn wordcloud
+```
+For Python2:
 ```
 python -m pip install -U pip
 python -m pip install -U pandas beautifoulsoup4 requests matplotlib numpy nltk scikit-learn joblib spacy textblob seaborn wordcloud
