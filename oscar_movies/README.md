@@ -1,10 +1,10 @@
 # Are Best Picture award winning movies considered the best among the public?
 
 ## Table of contents
-* [Project Description] (#project-description)
-* [Libraries and packages] (#libraries-and-packages)
-* [Method] (#method)
-* [Sources] (#sources)
+* [Project Description](#project-description)
+* [Libraries and packages](#libraries-and-packages)
+* [Method](#method)
+* [Sources](#sources)
 
 <a name="project-description"></a>
 ## Project Descritpion
